@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Ein Vertragspartner wird durch eine widerrechtliche Drohung zum Vertragsabschluss bestimmt. Welche rechtliche Kategorie ist besonders relevant?",
+    "options": {
+      "A": "Automatische Volljährigkeit.",
+      "B": "Taschengeldparagraph.",
+      "C": "Anfechtbarkeit.",
+      "D": "Sachdarlehen."
+    },
+    "correct": "C",
+    "explanation": "Eine durch widerrechtliche Drohung veranlasste Willenserklärung kann nach § 123 BGB angefochten werden. Die Anfechtung ist von der Nichtigkeit ohne Anfechtung zu unterscheiden."
+  },
+  {
+    "question": "Jemand wird durch bewusst falsche Angaben zum Abschluss eines Vertrags gebracht. Welcher Anfechtungsgrund kann vorliegen?",
+    "options": {
+      "A": "Geschäftsunfähigkeit wegen Minderjährigkeit.",
+      "B": "Ein Formmangel allein.",
+      "C": "Ein Sachdarlehen.",
+      "D": "Arglistige Täuschung."
+    },
+    "correct": "D",
+    "explanation": "Wer durch arglistige Täuschung zur Abgabe einer Willenserklärung bestimmt wurde, kann diese unter den Voraussetzungen des § 123 BGB anfechten. Entscheidend ist die Täuschung, die vorsätzlich zur Beeinflussung der Willensbildung eingesetzt wird."
+  },
+  {
+    "question": "Welche Aussage grenzt Nichtigkeit und Anfechtbarkeit zutreffend voneinander ab?",
+    "options": {
+      "A": "Ein nichtiges Rechtsgeschäft entfaltet aufgrund des Nichtigkeitsgrundes grundsätzlich keine beabsichtigte Wirkung; ein anfechtbares Rechtsgeschäft wird bei wirksamer Anfechtung grundsätzlich rückwirkend beseitigt.",
+      "B": "Beide Begriffe bedeuten immer exakt dasselbe.",
+      "C": "Nichtigkeit kann ausschließlich bei Kaufverträgen vorkommen.",
+      "D": "Anfechtbarkeit gibt es ausschließlich bei Minderjährigen."
+    },
+    "correct": "A",
+    "explanation": "Nichtigkeit und Anfechtbarkeit müssen auseinandergehalten werden. Bei Nichtigkeit fehlt dem Rechtsgeschäft aufgrund des Nichtigkeitsgrundes grundsätzlich die beabsichtigte Wirkung. Ein anfechtbares Rechtsgeschäft kann dagegen zunächst wirksam sein; eine wirksame Anfechtung führt nach § 142 Abs. 1 BGB grundsätzlich dazu, dass es als von Anfang an nichtig anzusehen ist."
+  },
+  {
+    "question": "Welche Aussage über einen Werkvertrag ist richtig?",
+    "options": {
+      "A": "Der Unternehmer schuldet ausschließlich seine Anwesenheit.",
+      "B": "Der Unternehmer schuldet den vereinbarten Erfolg beziehungsweise die Herstellung des versprochenen Werks.",
+      "C": "Ein Werkvertrag kann niemals Software betreffen.",
+      "D": "Beim Werkvertrag gibt es keine Bedeutung der Abnahme."
+    },
+    "correct": "B",
+    "explanation": "Kennzeichnend für den Werkvertrag ist der geschuldete Erfolg. Das kann beispielsweise die Reparatur einer Sache, die Erstellung eines bestimmten Werks oder – je nach konkreter Vertragsgestaltung – auch eine funktionsfähige Software sein."
+  },
+  {
+    "question": "Welche Aussage über einen Dienstvertrag ist richtig?",
+    "options": {
+      "A": "Geschuldet wird grundsätzlich die vereinbarte Tätigkeit beziehungsweise Dienstleistung.",
+      "B": "Es muss immer ein körperlicher Gegenstand hergestellt werden.",
+      "C": "Der Dienstverpflichtete garantiert grundsätzlich einen bestimmten Werkerfolg.",
+      "D": "Dienstverträge sind nur zwischen Unternehmen möglich."
+    },
+    "correct": "A",
+    "explanation": "Beim Dienstvertrag wird grundsätzlich die vereinbarte Tätigkeit beziehungsweise Dienstleistung geschuldet. Ein bestimmter Erfolg wie beim Werkvertrag ist nicht automatisch geschuldet. Ein Arbeitsvertrag ist ein besonders geregelter Unterfall des Dienstvertragsrechts."
+  },
+  {
+    "question": "Ein IT-Unternehmen soll laut Vertrag ein genau beschriebenes funktionsfähiges Warenwirtschaftssystem erstellen, das anschließend auf Vertragsgemäßheit geprüft und abgenommen werden soll. Welches Merkmal spricht besonders für einen Werkvertrag?",
+    "options": {
+      "A": "Die Mitarbeiter verwenden Computer.",
+      "B": "Das Projekt findet in einem Büro statt.",
+      "C": "Es wird ein konkret bestimmter Erfolg geschuldet.",
+      "D": "Das Unternehmen beschäftigt Programmierer."
+    },
+    "correct": "C",
+    "explanation": "Nicht die Branche oder der Beruf entscheidet über Dienst- oder Werkvertrag, sondern der geschuldete Leistungsinhalt. Wird ein konkret bestimmtes Ergebnis geschuldet, spricht dies für einen Werkvertrag."
+  },
+  {
+    "question": "Eine Gemeinde erlässt gegenüber einer Grundstückseigentümerin einen Gebührenbescheid auf Grundlage einer kommunalen Satzung. Welchem Rechtsbereich ist dieser Vorgang zuzuordnen?",
+    "options": {
+      "A": "Dem Privatrecht, weil Grundstücke privates Eigentum sein können.",
+      "B": "Dem öffentlichen Recht, weil die Gemeinde hoheitlich gegenüber der Bürgerin handelt.",
+      "C": "Dem Handelsrecht, weil eine Geldforderung entsteht.",
+      "D": "Dem Werkvertragsrecht, weil die Gemeinde eine Leistung erbracht hat."
+    },
+    "correct": "B",
+    "explanation": "Der Gebührenbescheid gehört zum öffentlichen Recht. Entscheidend ist nicht, dass eine Geldforderung entsteht, sondern dass die Gemeinde als Trägerin öffentlicher Gewalt hoheitlich handelt. Der Bescheid ist ein typisches Beispiel für ein Über-/Unterordnungsverhältnis. Im Privatrecht stehen sich die Beteiligten dagegen grundsätzlich rechtlich gleichgeordnet gegenüber."
+  },
+  {
+    "question": "Eine Stadt bestellt für ihre Verwaltung 30 handelsübliche Monitore bei einem Computerhändler. Welchem Rechtsbereich ist dieser Kaufvertrag grundsätzlich zuzuordnen?",
+    "options": {
+      "A": "Immer dem öffentlichen Recht, weil eine Stadt beteiligt ist.",
+      "B": "Dem Strafrecht, weil öffentliche Gelder verwendet werden.",
+      "C": "Dem Privatrecht, weil die Stadt hier grundsätzlich wie ein privater Vertragspartner einen Kaufvertrag schließt.",
+      "D": "Dem Verfassungsrecht, weil eine Kommune beteiligt ist."
+    },
+    "correct": "C",
+    "explanation": "Nicht jedes Handeln einer staatlichen oder kommunalen Stelle gehört automatisch zum öffentlichen Recht. Kauft eine Stadt beispielsweise Büromaterial oder Computer aufgrund eines privatrechtlichen Kaufvertrags, kann sie wie ein privater Vertragspartner handeln. Für die Abgrenzung ist daher entscheidend, in welcher rechtlichen Form der Staat handelt."
+  },
+  {
+    "question": "Der Bundestag beschließt ein Gesetz, das die Bundesregierung ausdrücklich ermächtigt, bestimmte technische Einzelheiten durch Rechtsverordnung zu regeln. Was ist daran kennzeichnend?",
+    "options": {
+      "A": "Die Rechtsverordnung wird aufgrund einer gesetzlichen Ermächtigung von der Exekutive erlassen.",
+      "B": "Die Bundesregierung darf dadurch beliebige Gesetze ohne gesetzliche Grenzen ändern.",
+      "C": "Die Rechtsverordnung ist lediglich ein privater Vertrag.",
+      "D": "Jede Rechtsverordnung ist selbst ein vom Bundestag beschlossenes förmliches Gesetz."
+    },
+    "correct": "A",
+    "explanation": "Eine Rechtsverordnung ist keine beliebige Rechtsetzung der Exekutive. Sie benötigt eine gesetzliche Ermächtigungsgrundlage. Nach Art. 80 Abs. 1 GG müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz bestimmt werden. Rechtsverordnung und förmliches Parlamentsgesetz sind deshalb voneinander zu unterscheiden."
+  },
+  {
+    "question": "Welche Aussage grenzt eine Rechtsverordnung von einem förmlichen Gesetz am besten ab?",
+    "options": {
+      "A": "Eine Rechtsverordnung enthält niemals verbindliche Rechtsnormen.",
+      "B": "Ein förmliches Gesetz wird ausschließlich von Gerichten erlassen.",
+      "C": "Eine Rechtsverordnung benötigt grundsätzlich keinerlei gesetzliche Grundlage.",
+      "D": "Ein förmliches Gesetz entsteht im parlamentarischen Gesetzgebungsverfahren; eine Rechtsverordnung wird aufgrund gesetzlicher Ermächtigung von einem dazu ermächtigten Exekutivorgan erlassen."
+    },
+    "correct": "D",
+    "explanation": "Der wesentliche Unterschied liegt insbesondere im Normgeber und Entstehungsverfahren. Förmliche Gesetze entstehen im parlamentarischen Gesetzgebungsverfahren. Rechtsverordnungen werden dagegen aufgrund einer gesetzlichen Ermächtigung von dazu ermächtigten Organen der Exekutive erlassen."
+  },
+  {
+    "question": "Ein 17-Jähriger bekommt von seiner Tante ohne Gegenleistung ein Buch geschenkt. Durch die Schenkung entstehen für ihn keine rechtlichen Verpflichtungen. Benötigt er für die Annahme grundsätzlich die Einwilligung seiner Eltern?",
+    "options": {
+      "A": "Nein, wenn das Rechtsgeschäft für ihn lediglich rechtlich vorteilhaft ist.",
+      "B": "Ja, weil Minderjährige niemals Geschenke annehmen dürfen.",
+      "C": "Ja, weil jeder Vertrag eines Minderjährigen automatisch nichtig ist.",
+      "D": "Nein, weil ein 17-Jähriger bereits voll geschäftsfähig ist."
+    },
+    "correct": "A",
+    "explanation": "Nach § 107 BGB benötigt ein beschränkt Geschäftsfähiger die Einwilligung seines gesetzlichen Vertreters für eine Willenserklärung, durch die er nicht lediglich einen rechtlichen Vorteil erlangt. Eine reine Schenkung ohne rechtliche Belastungen kann lediglich rechtlich vorteilhaft sein. Wichtig: Der Minderjährige ist dadurch nicht voll geschäftsfähig."
+  },
+  {
+    "question": "Ein 16-Jähriger kauft ohne Zustimmung seiner Eltern einen Laptop für 900 Euro auf Rechnung und soll den Kaufpreis erst im nächsten Monat zahlen. Warum macht § 110 BGB den Vertrag nicht allein wegen vorhandenen Taschengeldes sofort wirksam?",
+    "options": {
+      "A": "Weil § 110 BGB ausschließlich für Lebensmittel gilt.",
+      "B": "Weil Minderjährige niemals technische Geräte kaufen dürfen.",
+      "C": "Weil § 110 BGB nur Verträge bis zu einer gesetzlich festgelegten Grenze von 100 Euro erfasst.",
+      "D": "Weil die vertragsmäßige Leistung des Minderjährigen bei einem Kauf auf Rechnung noch nicht vollständig mit den überlassenen Mitteln bewirkt wurde."
+    },
+    "correct": "D",
+    "explanation": "§ 110 BGB enthält keine feste Eurogrenze. Entscheidend ist, dass der Minderjährige die vertragsmäßige Leistung mit Mitteln bewirkt hat, die ihm zu diesem Zweck oder zur freien Verfügung überlassen wurden. Bei einem noch nicht bezahlten Kauf auf Rechnung ist die geschuldete Zahlung gerade noch nicht vollständig bewirkt."
+  },
+  {
+    "question": "Ein 15-Jähriger schließt ohne vorherige Zustimmung seiner Eltern einen kostenpflichtigen Vertrag, der für ihn nicht lediglich rechtlich vorteilhaft ist. Die Eltern können nachträglich zustimmen. Wie heißt diese nachträgliche Zustimmung?",
+    "options": {
+      "A": "Genehmigung.",
+      "B": "Einwilligung.",
+      "C": "Beglaubigung.",
+      "D": "Beurkundung."
+    },
+    "correct": "A",
+    "explanation": "Die vorherige Zustimmung heißt Einwilligung, die nachträgliche Zustimmung Genehmigung. Bei einem ohne erforderliche Einwilligung geschlossenen Vertrag eines beschränkt Geschäftsfähigen hängt die Wirksamkeit nach § 108 BGB grundsätzlich von der Genehmigung des gesetzlichen Vertreters ab. Merksatz: Einwilligung vorher – Genehmigung nachher."
+  },
+  {
+    "question": "Ein sechsjähriges Kind erhält von seiner Großmutter 20 Euro und kauft damit allein ein Spielzeug. Welche Aussage trifft auf die eigene Willenserklärung des Kindes zu?",
+    "options": {
+      "A": "Sie ist wirksam, weil das Geld geschenkt wurde.",
+      "B": "Sie ist grundsätzlich nichtig, weil das Kind geschäftsunfähig ist.",
+      "C": "Sie ist lediglich schwebend unwirksam, weil das Kind beschränkt geschäftsfähig ist.",
+      "D": "Sie ist aufgrund des Taschengeldparagraphen automatisch wirksam."
+    },
+    "correct": "B",
+    "explanation": "Ein Kind, das das siebente Lebensjahr noch nicht vollendet hat, ist nach § 104 Nr. 1 BGB geschäftsunfähig. Seine Willenserklärung ist nach § 105 Abs. 1 BGB grundsätzlich nichtig. § 110 BGB hilft hier nicht, weil er einen beschränkt geschäftsfähigen Minderjährigen voraussetzt."
+  },
+  {
+    "question": "Eine 14-Jährige kauft mit 25 Euro, die ihr von den Eltern ausdrücklich zur freien Verfügung überlassen wurden, ein Buch und bezahlt den vollständigen Kaufpreis sofort. Welche Vorschrift kann den Vertrag ohne zusätzliche Zustimmung der Eltern wirksam machen?",
+    "options": {
+      "A": "§ 104 BGB über Geschäftsunfähigkeit.",
+      "B": "§ 123 BGB über Täuschung und Drohung.",
+      "C": "§ 110 BGB über die Bewirkung der Leistung mit überlassenen Mitteln.",
+      "D": "§ 125 BGB über Formmängel."
+    },
+    "correct": "C",
+    "explanation": "Hier kann § 110 BGB einschlägig sein. Hat der Minderjährige seine vertragsmäßige Leistung vollständig mit Mitteln bewirkt, die ihm zu diesem Zweck oder zur freien Verfügung überlassen wurden, kann der Vertrag auch ohne gesonderte Zustimmung wirksam sein. Eine feste gesetzliche Taschengeld-Höchstgrenze gibt es dabei nicht."
+  },
+  {
+    "question": "Eine volljährige Person steht unter rechtlicher Betreuung. Sie möchte beim Bäcker selbst ein Brötchen kaufen. Welche Aussage ist grundsätzlich richtig?",
+    "options": {
+      "A": "Eine betreute Person verliert automatisch ihre Rechtsfähigkeit.",
+      "B": "Jede Betreuung führt automatisch zur Geschäftsunfähigkeit.",
+      "C": "Ein Betreuter darf grundsätzlich überhaupt keine Verträge mehr schließen.",
+      "D": "Die Betreuung allein führt nicht automatisch zur Geschäftsunfähigkeit."
+    },
+    "correct": "D",
+    "explanation": "Die Bestellung eines Betreuers bedeutet nicht automatisch, dass die betreute Person geschäftsunfähig ist. Geschäftsunfähigkeit richtet sich nach § 104 BGB. Daneben kann für bestimmte Bereiche ein gerichtlicher Einwilligungsvorbehalt bestehen. Diese Rechtsinstitute müssen voneinander unterschieden werden."
+  }
+]
